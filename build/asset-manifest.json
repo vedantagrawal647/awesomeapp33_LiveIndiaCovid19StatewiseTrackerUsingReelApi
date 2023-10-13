@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vedantagrawal647/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/css/main.ad868861.css",
-    "main.js": "/vedantagrawal647/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/js/main.aad799cc.js",
-    "index.html": "/vedantagrawal647/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/index.html",
-    "main.ad868861.css.map": "/vedantagrawal647/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/css/main.ad868861.css.map",
-    "main.aad799cc.js.map": "/vedantagrawal647/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/js/main.aad799cc.js.map"
+    "main.css": "/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/css/main.ad868861.css",
+    "main.js": "/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/js/main.aad799cc.js",
+    "index.html": "/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/index.html",
+    "main.ad868861.css.map": "/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/css/main.ad868861.css.map",
+    "main.aad799cc.js.map": "/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/js/main.aad799cc.js.map"
   },
   "entrypoints": [
     "static/css/main.ad868861.css",
