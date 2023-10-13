@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/vedantagrawal647.github.io/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/css/main.ad868861.css",
+    "main.js": "//github.com/vedantagrawal647.github.io/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/js/main.aad799cc.js",
+    "index.html": "//github.com/vedantagrawal647.github.io/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/index.html",
+    "main.ad868861.css.map": "//github.com/vedantagrawal647.github.io/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/css/main.ad868861.css.map",
+    "main.aad799cc.js.map": "//github.com/vedantagrawal647.github.io/awesomeapp33_LiveIndiaCovid19StatewiseTrackerUsingReelApi/static/js/main.aad799cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad868861.css",
+    "static/js/main.aad799cc.js"
+  ]
+}
